@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Airchat</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_client">Cliente</string>
+    <string name="title_activity_connected">Conectado</string>
+    <string name="title_activity_server">Servidor</string>
+    <string name="escreva_aqui">Escreva aqui…</string>
+    <string name="enviar">Enviar</string>
+    <string name="servidor">Servidor</string>
+    <string name="cliente">Cliente</string>
+
+
+</resources>
